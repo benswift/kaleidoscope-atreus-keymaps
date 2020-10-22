@@ -5,7 +5,9 @@ Atreus](https://shop.keyboard.io/collections/keyboardio-atreus/products/keyboard
 They're pretty much the same as the first two layers from the "default"
 keymap. The main changes are:
 
-- layer 1: moved some of the parens around so that all open/close pairs are next to one another
+- layer 1: moved some of the parens around so that all open/close pairs are next
+  to one another
+
 - layer 1: put the numpad "+-*/" keys on the right-most column
 
 There are a couple of other symbols I've moved around, but that's about it.
